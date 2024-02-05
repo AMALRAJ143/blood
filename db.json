@@ -1,0 +1,36 @@
+{
+  "loginData": [
+    {
+      "userName": "Amal",
+      "fullName": "Amalraj",
+      "email": "amal@gmail.com",
+      "password": "qwerty",
+      "id": 1
+    },
+    {
+      "userName": "Ajay",
+      "fullName": "Ajay",
+      "email": "ajay@gmail.com",
+      "password": "asdfg",
+      "id": 2
+    },
+    {
+      "userName": "Ajith",
+      "fullName": "Ajith Kanna",
+      "email": "ajith@gmail.com",
+      "password": "zxcvb",
+      "id": 3
+    },
+    {
+      "userName": "ssss",
+      "fullName": "sssss",
+      "email": "ssss@ssss",
+      "password": "sss",
+      "id": 4
+    }
+    
+  ],
+  "updateLoginData": [
+    []
+  ]
+}
